@@ -10,14 +10,6 @@ Inspiration for the keyboard was taken from these projects:
 * [Corne](https://github.com/foostan/crkbd) by [foostan](https://github.com/foostan)
 * [Dao](https://github.com/yumagulovrn/dao-choc-ble) by [yumagulovrn](https://github.com/yumagulovrn)
 
-## Idea
-
-We wanted to create a pretty affordable, nice looking, and, most importantly, very DIY-friendly ergonomic wireless split keyboard with Gateron Low Profile switches.
-
-## Photos
-
-Gallery can be found on [imgur](https://imgur.com/a/sOBBtmQ).
-
 ## Features
 
 * Low-profile, which will reduce strain on your beautiful hands;
@@ -54,11 +46,6 @@ Firmware can be found in [one-zmk-config](https://github.com/ergonautkb/one-zmk-
 * [Gerbers for JLCPCB](../../releases/latest/download/pcb-JLCPCB_gerbers.zip)
 * [Gerbers for PCBWay](../../releases/latest/download/pcb-PCBWay_gerbers.zip)
 
-## Community projects
-
-### Accessories
-
-* [Frames for Magic Trackpad 2/3 and Laptops](https://www.thingiverse.com/thing:6447743) by [Alex Kh](https://www.thingiverse.com/alehano777/designs)
 
 ## Contacts
 
